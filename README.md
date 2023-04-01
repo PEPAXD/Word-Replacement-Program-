@@ -2,7 +2,7 @@
 
 Users replaces specific words or phrases in a pdf file with new ones
 
-The word replacement program is written in Python code.
+The word replacement program is written in Python code. [EXECUTE MAIN-FILE ---> "SpellingChecker.py"]
 
 The script allows users to read and replace specific words or phrases in a pdf file with new words or phrases in a new txt file.
 
